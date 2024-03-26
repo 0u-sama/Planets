@@ -1,0 +1,1 @@
+run this command in your terminal after switching to java script directory: 'node server.js'
