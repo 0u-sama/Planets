@@ -1,0 +1,78 @@
+body{
+    background-image: url("http://localhost:3000/sun-img");
+    backdrop-filter: blur(6px);
+    background-position: center center;
+    background-size: auto;
+    margin: 0;
+}
+p.colored{
+    color: azure;
+    font-family: "Franklin Gothic Book", sans-serif;
+}
+h1, h3, h4{
+    font-family: "Bookman Old Style", serif;
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+table.colored{
+    background-color: black;
+}
+td{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th.colored{
+    background-color: white;
+}
+td.colored{
+    background-color: aliceblue;
+}
+ul{
+    text-align: center;
+    font-size: 20px;
+}
+legend{
+    text-align: center;
+    border-color: #f8dbca;
+    border-width: 3px;
+    border-style: outset;
+    border-radius: 50px;
+}
+
+p.boxed{
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+}
+p{
+    margin-right: 350px;
+    margin-left: 350px;
+    padding: 1px;
+
+    font-size: 22px;
+    text-align: center;
+    font-family: "Franklin Gothic Book", serif;
+}
+
+option{
+    font-size: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a:link{
+    color: #00e6f8;
+}
+a:visited{
+    color: darkblue;
+}
+a:hover{
+    color: #dfffd0;
+}
